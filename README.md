@@ -13,11 +13,11 @@ The dataset used for analysis contains 40 major food nutrients like calories, fa
 ### Data Source:
 [USDA National Nutrient Database](https://www.kaggle.com/haithemhermessi/usda-national-nutrient-database?select=train.csv)
 ### Python Notebooks:
-[Exploratory Data Analysis]()  
-[Technical Notebook]()  
+[Exploratory Data Analysis](https://github.com/ashuthoshc/RightFood_Healthylife/blob/main/Notebooks/RightFood_HealthyLife_EDA.ipynb)  
+[Technical Notebook](https://github.com/ashuthoshc/RightFood_Healthylife/blob/main/Notebooks/RightFood_HealthyLife_TechnicalNotebook1.ipynb)  
 
 ### Slide Deck
-[RightFood_HealthyLife]()  
+[RightFood_HealthyLife](https://github.com/ashuthoshc/RightFood_Healthylife/blob/main/Presentation/RightFood_HealthyLife_voice.pptx)  
 
 ### Data Folder 
 [Food_data](D%3A%2F3rd%2520sem%2FDS_602%2FProject1_AshuthoshChandramouli%2FUSDA%2520National%2520Nutrient%2520Database%2520_%2520Kaggle.html)
