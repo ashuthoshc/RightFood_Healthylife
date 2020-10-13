@@ -20,7 +20,7 @@ The dataset used for analysis contains 40 major food nutrients like calories, fa
 [RightFood_HealthyLife](https://github.com/ashuthoshc/RightFood_Healthylife/blob/main/Presentation/RightFood_HealthyLife_voice.pptx)  
 
 ### Data Folder 
-[Food_data](D%3A%2F3rd%2520sem%2FDS_602%2FProject1_AshuthoshChandramouli%2FUSDA%2520National%2520Nutrient%2520Database%2520_%2520Kaggle.html)
+[Food_data](https://github.com/ashuthoshc/RightFood_Healthylife/tree/main/Datasets)
 
 
 
